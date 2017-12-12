@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/task_5_react/node_modules
+
+# testing
+/task_5_react/coverage
+
+# production
+/task_5_react/build
+
+# misc
+/task_5_react/.DS_Store
+/task_5_react/.env.local
+/task_5_react/.env.development.local
+/task_5_react/.env.test.local
+/task_5_react/.env.production.local
+
+/task_5_react/npm-debug.log*
+/task_5_react/yarn-debug.log*
+/task_5_react/yarn-error.log*
+
+/task_5_react/.vscode

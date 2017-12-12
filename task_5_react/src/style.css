@@ -1,0 +1,7 @@
+.backgroundImage{
+    background-image: url("./imgs/background.png");
+}
+
+body .height img{
+    height: 31vh;
+}
